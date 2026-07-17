@@ -86,8 +86,8 @@ In this project, I built a modern portfolio website using **React**, **TailwindC
 ### Clone and Run
 
 ```bash
-git clone https://github.com/aaryamahajan919/beautiful-react-tailwind-portfolio.git
-cd beautiful-react-tailwind-portfolio
+git clone https://github.com/aaryamahajan919/Aarya-Mahajan-Portfolio.git
+cd Aarya-Mahajan-Portfolio-main
 npm install
 npm run dev
 ```
